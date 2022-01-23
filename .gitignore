@@ -10,3 +10,5 @@ lib/
 share/
 lib64
 pyvenv.cfg
+
+logs/inkycal.log
